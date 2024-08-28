@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img src="https://avatars.githubusercontent.com/u/58981329?s=200&v=4" alt="Oliveira Trust" width="24" /> Desafio Desenvolvedor
+    Conversor de Moedas
 </h2>
 
 ## 🚀 Tecnologias
@@ -7,8 +7,8 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [PHP 7.4](https://php.net)
-- [Laravel 8](https://laravel.com)
-- [MySQL 5.7](https://mysql.com)
+- [Laravel](https://laravel.com)
+- [MySQL](https://mysql.com)
 - [Docker](https://docker.com)
 - [Redis](https://redis.io)
 - [RabbitMQ](https://www.rabbitmq.com/)
